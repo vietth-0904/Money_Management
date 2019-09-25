@@ -8,4 +8,8 @@
     <color name="color_black87">#DE000000</color>
     <color name="color_black40">#66000000</color>
     <color name="color_black20">#33000000</color>
+    <color name="color_purple_light">#DFB7FF</color>
+    <color name="color_red">#F95F62</color>
+    <color name="color_blue">#346DA6</color>
+    <color name="color_white">#FFF</color>
 </resources>

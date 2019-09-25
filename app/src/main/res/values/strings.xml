@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Chubby Piggy</string>
+
+    <!--Login-->
+    <string name="login_google">Đăng nhập với Google</string>
+    <string name="login_facebook">Đăng nhập với Facebook</string>
 </resources>
