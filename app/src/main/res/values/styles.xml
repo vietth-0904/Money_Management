@@ -8,4 +8,11 @@
         <item name="colorAccent">@color/color_accent</item>
     </style>
 
+    <style name="MainText">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/color_black87</item>
+        <item name="android:textSize">@dimen/text_body</item>
+    </style>
 </resources>
